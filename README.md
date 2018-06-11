@@ -19,6 +19,10 @@ npm install web3-for-weex --save
 
 ## Usage
 
+```js
+import Web3 from 'web3-for-weex';
+```
+
 Set a provider (HttpProvider)
 
 ```js
